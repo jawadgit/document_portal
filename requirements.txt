@@ -1,0 +1,12 @@
+fastapi
+langchain
+langchain-community
+langchain-experimental
+fastapi
+python-dotenv
+streamlit
+uvicorn
+ipykernel
+langchain_groq
+langchain_openai
+-e .
