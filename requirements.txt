@@ -2,11 +2,14 @@ fastapi
 langchain
 langchain-community
 langchain-experimental
-fastapi
+langchain_google_genai
+langchain_groq
+langchain_openai
 python-dotenv
 streamlit
 uvicorn
 ipykernel
-langchain_groq
-langchain_openai
+pypdf
+faiss-cpu
+
 -e .
