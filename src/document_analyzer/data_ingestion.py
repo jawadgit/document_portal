@@ -36,7 +36,8 @@ class DocumentHandler:
             filename = os.path.basename(uploaded_file.name)
             
             if not filename.lower().endswith(".pdf"):
-                raise DocumentPortalException("Invalid file type. Only PDFs are allowed.")
+                self.log.error(f"Error saving PDF: {e}")
+                raise DocumentPortalException("Invalid file type. Only PDFs are allowed.", "error", e) from e
 
             save_path = os.path.join(self.session_path, filename)
             

@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+logs/
+venv/
+document_portal.egg-info
+*.pyc
