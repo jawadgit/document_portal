@@ -11,5 +11,6 @@ uvicorn
 ipykernel
 pypdf
 faiss-cpu
+structlog
 
 -e .

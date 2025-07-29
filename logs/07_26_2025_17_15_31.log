@@ -1,0 +1,2 @@
+[ 2025-07-26 17:15:31,721 ] INFO app.py (line:8) - This is an info log testing
+[ 2025-07-26 17:15:31,721 ] ERROR app.py (line:9) - This is an error log testing

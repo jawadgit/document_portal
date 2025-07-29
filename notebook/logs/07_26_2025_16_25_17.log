@@ -1,0 +1,33 @@
+[ 2025-07-26 16:25:19,423 ] ERROR exception_experiment (line:26) - 
+        Error in [C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\11436085.py] at line [22]
+        Message: division by zero
+        Traceback:
+        Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\11436085.py", line 22, in <module>
+    a = 1 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
+
+        
+[ 2025-07-26 16:31:02,932 ] ERROR __main__ (line:32) - 
+        Error in [C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\715215172.py] at line [29]
+        Message: division by zero
+        Traceback:
+        Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\715215172.py", line 29, in <module>
+    a = 1 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
+
+        
+[ 2025-07-26 16:45:32,926 ] ERROR __main__ (line:32) - 
+        Error in [C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\715215172.py] at line [29]
+        Message: division by zero
+        Traceback:
+        Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Temp\ipykernel_22608\715215172.py", line 29, in <module>
+    a = 1 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
+
+        
