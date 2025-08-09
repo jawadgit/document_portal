@@ -14,4 +14,9 @@ faiss-cpu
 structlog
 PyMuPDF
 pandas
+doc2text
+langchain-core[tracing]
+pytest
+docx2txt
+
 -e .
