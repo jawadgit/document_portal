@@ -13,3 +13,5 @@ logs/
 venv/
 document_portal.egg-info
 *.pyc
+main_archive/
+faiss_index/
