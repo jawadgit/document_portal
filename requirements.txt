@@ -17,5 +17,5 @@ pandas
 langchain-core[tracing]
 pytest
 docx2txt
-
+cfn-lint
 -e .
